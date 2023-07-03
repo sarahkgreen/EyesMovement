@@ -1,2 +1,2 @@
-# EyesMovement
-Eyes movement exercise.
+# Eyes Movement
+## Eyes movement exercise.
